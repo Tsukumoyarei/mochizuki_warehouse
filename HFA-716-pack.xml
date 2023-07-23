@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>e74dae59-57a5-4446-ac81-0e4d4f918f44</uuid>
+  <title>HFA_716_mission_pack</title>
+  <downpath>/</downpath>
+  <remotes count="1">
+    <remote ident="716_mission_pack" file="716_mission_pack.zip" bytes="-1817388681" xxhsum="" category="GENERIC">
+      <url>https://drive.google.com/uc?id=1eDWfJ8aQ2fQ654wGLGjOm23nVuQ0Iulv&amp;export=download</url>
+    </remote>
+  </remotes>
+</Open_Mod_Manager_Repository>
